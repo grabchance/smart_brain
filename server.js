@@ -14,7 +14,7 @@ const db = knex({
   connection: {
     host : '127.0.0.1',
     user : 'postgres',
-    password : 'dn106204!',
+    password : '*****',
     database : 'smart-brain'
   }
 });
